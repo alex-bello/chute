@@ -10,3 +10,6 @@
 # Built Visual Studio Code Extensions
 *.vsix
 
+# PNPM (repository tooling only)
+node_modules/
+
